@@ -217,7 +217,13 @@ h6 {
 #header {
     transition: all 0.5s;
     z-index: 997;
-    padding: 20px 0;
+    padding: 20px 0; 
+    background: linear-gradient(
+        352deg,
+        rgba(0, 36, 84, 1) 0%,
+        rgba(54, 55, 149, 1) 74%,
+        rgba(0, 92, 151, 1) 100%
+      );
 }
 
 #header.header-scrolled,
