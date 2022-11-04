@@ -2076,6 +2076,6 @@ p {
     color: #fff;
     text-decoration: none;
 }
-.row{
+ .column-gap{
     column-gap: 13rem;
-}
+} 
