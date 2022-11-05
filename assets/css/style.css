@@ -1354,6 +1354,9 @@ section {
     opacity: 1;
     bottom: calc(50% - 50px);
 }
+.flex-img{
+    display: flex;
+}
 
 
 /*--------------------------------------------------------------
@@ -2076,3 +2079,6 @@ p {
     color: #fff;
     text-decoration: none;
 }
+ .column-gap{
+    column-gap: 13rem;
+} 
